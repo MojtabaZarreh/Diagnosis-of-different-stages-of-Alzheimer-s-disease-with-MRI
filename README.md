@@ -4,8 +4,6 @@ Project Description
 
 This project aims to detect and classify Alzheimer's disease using MRI brain images. The OASIS dataset has been utilized, and deep learning models are implemented using PyTorch.
 
-Task and Challenges
-
 Alzheimer's disease is a progressive neurodegenerative disorder that develops in multiple stages:
 
 Early Stage: Mild memory loss and minor cognitive issues.
